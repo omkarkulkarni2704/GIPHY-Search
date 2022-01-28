@@ -1,4 +1,3 @@
 # omkarkulkarni
-Task 1 - Iris flowers Classification Machine Learning
+Project - Iris flowers Classification Using Machine Learning
 
-Task 4 - Image To Pencil Sketch With Python
