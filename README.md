@@ -1,8 +1,7 @@
 # Name :- Omkar Dhananjay Kulkarni
 
 
-# Future Ready Talent
-
+Future Ready Talent
 
 # Project :-                                                  
 #                                                                      GIPHY Search 
