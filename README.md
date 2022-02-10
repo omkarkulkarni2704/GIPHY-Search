@@ -19,7 +19,7 @@ Future Ready Talent
 
 # Project Description:
  
- It is a website which uses API to fetch all of the giphy related material to this website. It contains funny meme, giphy , Short comedy videos etc. It uses JavaScript for its functionality. I will be deploying this static website using azure services. Has a beginner in development I will try to make web gify-search Static Web App by using the azure technology and resources which are given to me during my intership I will use has much has I can and I will make smart portal for those students , professional who are facing problems in there learning journey and I will try to make there learning journey smart ,I will try to make good web application/ web site by using Azure Tecnology and recourse
+ It is a website which uses API to fetch all of the giphy related material to this website. It contains funny meme, giphy , Short comedy videos etc. It uses JavaScript for its functionality. I will be deploying this static website using azure services. Has a beginner in development I will try to make web gify-search Static Web App by using the azure technology and resources which are given to me during my intership I will use has much has I can and I will make smart portal for those students , professional who are facing problems in there learning journey and I will try to make there learning journey smart ,I will try to make good web application/ web site by using Azure Tecnology and recourse.
 
 
 GIF Search
