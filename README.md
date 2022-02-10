@@ -13,7 +13,7 @@ Future Ready Talent
 # Problem Statement/Opportunity:
 
 #                                                                          GIPHY
-
+ It is a giphy search website where we can search various GIFs and this website uses HTML, CSS and JAVASCRIPT.
  GIPHY is all the GIFs. The first and largest GIF search engine where artists, brands, and users alike go to make everyday conversation more entertaining.
 
 # Project Description:
