@@ -4,11 +4,12 @@
 # Future Ready Talent
 
 
-# Project :-                                                   GIPHY Search 
+# Project :-                                                  
+#                                                                      GIPHY Search 
 
 # Problem Statement/Opportunity:
 
-#                                                                   GIPHY
+#                                                                          GIPHY
 
 It is a giphy search website where we can search for various memes or giphy and this website uses HTML, CSS and JAVASCRIPT ,The fastest and easiest way to bring the full GIPHY experience directly to your app is with the GIPHY search
 
