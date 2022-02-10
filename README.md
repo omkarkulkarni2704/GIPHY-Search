@@ -1,9 +1,10 @@
 # Name :- Omkar Dhananjay Kulkarni
 
+
 # Future Ready Talent
 
-# Project Title :- 
-#                                                                 GIPHY Search 
+
+# Project :-                                                   GIPHY Search 
 
 Problem Statement/Opportunity:
 
