@@ -1,5 +1,5 @@
 # Name :- Omkar Dhananjay Kulkarni
 
-Project :- GIF search
+Project :- GIF Search
 
  
