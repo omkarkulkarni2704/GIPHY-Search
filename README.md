@@ -6,6 +6,10 @@ Future Ready Talent
 # Project :-                                                  
 #                                                                      GIPHY Search 
 
+![image](https://user-images.githubusercontent.com/89896505/153408262-c6560c6c-b5dc-4bda-9b0f-98ff5e5baf24.png)
+
+
+
 # Problem Statement/Opportunity:
 
 #                                                                          GIPHY
