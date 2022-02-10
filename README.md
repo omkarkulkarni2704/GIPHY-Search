@@ -8,16 +8,13 @@ Future Ready Talent
 
 ![image](https://user-images.githubusercontent.com/89896505/153408262-c6560c6c-b5dc-4bda-9b0f-98ff5e5baf24.png)
 
-  GIFs Everywhere, for Everyone!
-
 
 
 # Problem Statement/Opportunity:
 
 #                                                                          GIPHY
 
-It is a giphy search website where we can search for various memes or giphy and this website uses HTML, CSS and JAVASCRIPT ,The fastest and easiest way to bring the full GIPHY experience directly to your app is with the GIPHY search
-
+ GIPHY is all the GIFs. The first and largest GIF search engine where artists, brands, and users alike go to make everyday conversation more entertaining.
 
 # Project Description:
  
@@ -31,8 +28,9 @@ Welcome Omkar Dhananjay Kulkarni
 Note: You need to refresh page to search for next GIF once you have done searching it
 
 
+# GIFs Everywhere, for Everyone!
 
-# Thank you
+# Thank you !
 
 ![image](https://user-images.githubusercontent.com/89896505/153400919-58743864-0a6e-43db-bdc2-03ab427eacb8.png)
 
