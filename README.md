@@ -1,25 +1,23 @@
 # Project:-                                                  
 
-#                                                                      GIPHY Search 
+#                                                                      GIPHY SEARCH
 
  
 
 
-# Problem Statement/Opportunity:
 
-#                                                                          GIPHY
- It is a Giphy search website where we can search various GIFs and this website uses HTML, CSS, and JAVASCRIPT.
+
+ It is a Giphy search website where we can search various GIFs and this website uses HTML, CSS, and JavaScript.
  
  GIPHY is all the GIFs. The first and largest GIF search engine where artists, brands, and users alike go to make everyday conversation more entertaining.
 
 # Project Description:
  
- It is a website that uses API to fetch all of the giphy-related material to this website. It contains funny memes, giphy, Short comedy videos, etc. Has a beginner in development I will try to make a web gif-search Static Web App by using the Azure technology and resources which are given to me during my internship I will use as much as I can and I will make a smart portal for those students, professional who are facing problems in there learning journey and I will try to make there learning journey smart, I will try to make good web application/ web site by using Azure Technology.
-
+Creating a Giphy search project using HTML, CSS, and JavaScript is a great way to build a basic web application for searching and displaying GIFs from the Giphy API. The Giphy Search Web App is a simple, user-friendly website that allows users to search for animated GIFs using keywords. It leverages the Giphy API to fetch and display GIFs based on user queries. Develop a simple and functional web app for searching and displaying GIFs. Provide a responsive and visually appealing user interface. Integrate with the Giphy API to retrieve GIF data.
 
 GIF Search
 
-Welcome Omkar Dhananjay Kulkarni
+Welcome to Giphy Search
 
 Note: You need to refresh the page to search for the next GIF once you have done searching for it.
 
@@ -29,11 +27,17 @@ Note: You need to refresh the page to search for the next GIF once you have done
 
 # Thank you!
 
-![Screenshot (38)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/b15293ca-dc31-48fc-bcf9-4ffc4736511d)
+![Screenshot (41)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/bf699e13-9ffd-4324-ac29-152fb5962b92)
 
-![Screenshot (40)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/89cd527a-6458-4d69-90ae-3f7b34dd7001)
+![Screenshot (42)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/6de8ebca-18ac-4ff5-9517-9fa36a89644f)
 
-![Screenshot (39)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/bd00831b-bf49-49f6-9922-2718b3364feb)
+![Screenshot (43)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/e94a46ce-5bac-4513-a558-fa888b05a16d)
+
+
+
+
+
+
 
 
 
