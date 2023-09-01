@@ -29,8 +29,16 @@ Note: You need to refresh the page to search for the next GIF once you have done
 
 # Thank you!
 
+![Screenshot (38)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/b15293ca-dc31-48fc-bcf9-4ffc4736511d)
 
-"C:\Users\Aditya\Pictures\Screenshots\Screenshot (37).png"
+![Screenshot (40)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/89cd527a-6458-4d69-90ae-3f7b34dd7001)
+
+![Screenshot (39)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/bd00831b-bf49-49f6-9922-2718b3364feb)
+
+
+
+
+
 
 
 
