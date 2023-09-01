@@ -1,9 +1,5 @@
-# Name :- Omkar Dhananjay Kulkarni
-
-
-Future Ready Talent
-
 # Project:-                                                  
+
 #                                                                      GIPHY Search 
 
  
@@ -30,7 +26,11 @@ Note: You need to refresh the page to search for the next GIF once you have done
 
 # GIFs Everywhere, for Everyone!
 
+
 # Thank you!
+
+
+"C:\Users\Aditya\Pictures\Screenshots\Screenshot (37).png"
 
 
 
