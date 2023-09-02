@@ -22,10 +22,7 @@ Welcome to Giphy Search
 Note: You need to refresh the page to search for the next GIF once you have done searching for it.
 
 
-# GIFs Everywhere, for Everyone!
 
-
-# Thank you!
 
 ![Screenshot (41)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/bf699e13-9ffd-4324-ac29-152fb5962b92)
 
@@ -33,7 +30,9 @@ Note: You need to refresh the page to search for the next GIF once you have done
 
 ![Screenshot (43)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/e94a46ce-5bac-4513-a558-fa888b05a16d)
 
+# GIFs Everywhere, for Everyone!
 
+# Thank You!
 
 
 
