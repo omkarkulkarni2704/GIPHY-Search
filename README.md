@@ -22,13 +22,16 @@ Welcome to Giphy Search
 Note: You need to refresh the page to search for the next GIF once you have done searching for it.
 
 
+![Screenshot (53)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/1523053a-932d-48c5-95a9-6381522fc1c6)
+
+![Screenshot (55)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/eae838c2-e2eb-42cf-9751-e3c3c0e95828)
+
+![Screenshot (57)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/5e09e6d1-4308-4663-b4e9-d6a8734cef3f)
 
 
-![Screenshot (41)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/bf699e13-9ffd-4324-ac29-152fb5962b92)
 
-![Screenshot (42)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/6de8ebca-18ac-4ff5-9517-9fa36a89644f)
 
-![Screenshot (43)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/e94a46ce-5bac-4513-a558-fa888b05a16d)
+
 
 # GIFs Everywhere, for Everyone!
 
