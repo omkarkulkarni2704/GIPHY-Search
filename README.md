@@ -1,6 +1,6 @@
 # Project:-                                                  
 
-#                                                                      GIPHY SEARCH
+#                                                                      SEARCH GIFs
 
 
  https://omkarkulkarni2704.github.io/GIF/
