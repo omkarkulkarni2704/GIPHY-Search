@@ -1,22 +1,9 @@
-# Project:-                                                  
-
-#                                                                           Search GIFs
+# GIPHY Search
     
 
- https://omkarkulkarni2704.github.io/GIF/
-
-
-
-
- It is a Giphy search website where we can search various GIFs and this website uses HTML, CSS, and JavaScript.
- 
- GIPHY is all the GIFs. The first and largest GIF search engine where artists, brands, and users alike go to make everyday conversation more entertaining.
-
-# Project Description:
+## GIF Search
  
 Creating a Giphy search project using HTML, CSS, and JavaScript is a great way to build a basic web application for searching and displaying GIFs from the Giphy API. The Giphy Search Web App is a simple, user-friendly website that allows users to search for animated GIFs using keywords. It leverages the Giphy API to fetch and display GIFs based on user queries. Develop a simple and functional web app for searching and displaying GIFs. Provide a responsive and visually appealing user interface. Integrate with the Giphy API to retrieve GIF data.
-
-GIF Search
 
 Welcome to Giphy Search
 
