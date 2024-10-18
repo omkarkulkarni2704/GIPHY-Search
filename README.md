@@ -21,9 +21,9 @@ Note: You need to refresh the page to search for the next GIF once you have done
 
 
 
-# GIFs Everywhere, for Everyone!
+## GIFs Everywhere, for Everyone!
 
-# Thank You!
+## Thank You!
 
 
 
