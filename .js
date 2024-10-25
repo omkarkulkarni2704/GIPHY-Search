@@ -1,7 +1,7 @@
 let getInput = (a) => {
     let input = document.getElementById("input").value;
     console.log(input);
-    getName(input);
+    getName(input);   
 
 };
 
