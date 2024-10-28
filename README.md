@@ -1,4 +1,4 @@
-# GIPHY Search
+# GIPHY Search 
     
  
 ## GIF Search
