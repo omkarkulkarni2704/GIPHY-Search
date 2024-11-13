@@ -6,7 +6,7 @@
 * Creating a Giphy search project using HTML, CSS, and JavaScript is a great way to build a basic web application for searching and displaying GIFs from the Giphy API.
 * The Giphy Search Web App is a simple, user-friendly website that allows users to search for animated GIFs using keywords. It leverages the Giphy API to fetch and display GIFs based on user queries.
 * Develop a simple and functional web app for searching and displaying GIFs. Provide a responsive and visually appealing user interface. Integrate with the Giphy API to retrieve GIF data.
-
+   
 ## Welcome to Giphy Search 
 
 * Note: You need to refresh the page to search for the next GIF once you have done searching for it.
