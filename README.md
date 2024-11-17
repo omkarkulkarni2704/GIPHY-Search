@@ -8,7 +8,7 @@
 * Develop a simple and functional web app for searching and displaying GIFs. Provide a responsive and visually appealing user interface. Integrate with the Giphy API to retrieve GIF data.
    
 ## Welcome to Giphy Search 
-
+  
 * Note: You need to refresh the page to search for the next GIF once you have done searching for it.
 
 
