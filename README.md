@@ -1,35 +1,51 @@
-# GIPHY Search 
-    
- 
-## GIF Search
-  
-* Creating a Giphy search project using HTML, CSS, and JavaScript is a great way to build a basic web application for searching and displaying GIFs from the Giphy API.
-* The Giphy Search Web App is a simple, user-friendly website that allows users to search for animated GIFs using keywords. It leverages the Giphy API to fetch and display GIFs based on user queries.
-* Develop a simple and functional web app for searching and displaying GIFs. Provide a responsive and visually appealing user interface. Integrate with the Giphy API to retrieve GIF data.
-   
-## Welcome to Giphy Search      
-  
-* Note: You need to refresh the page to search for the next GIF once you have done searching for it.
+# Giphy Search 🎥✨
 
+[Demo](https://omkarkulkarni2704.github.io/GIF/)
 
-![Screenshot (53)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/1523053a-932d-48c5-95a9-6381522fc1c6)
+Welcome to **Giphy Search**, a simple and user-friendly web application that allows users to search for and display animated GIFs using the [Giphy API](https://developers.giphy.com/). This project is built using **HTML**, **CSS**, and **JavaScript**, and provides a responsive and visually appealing interface for all GIF enthusiasts!
 
-![Screenshot (55)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/eae838c2-e2eb-42cf-9751-e3c3c0e95828)
+---
 
-![Screenshot (57)](https://github.com/omkarkulkarni2704/GIPHY-Search/assets/89896505/5e09e6d1-4308-4663-b4e9-d6a8734cef3f)
+## 🌟 Features
 
+- 🔍 **Search Functionality**: Look up GIFs using your favorite keywords.
+- 💡 **Dynamic Display**: Fetches and displays GIFs directly from the Giphy API.
+- 📱 **Responsive Design**: Optimized for all devices, from desktop to mobile.
+- 🎉 **Fun and Engaging UI**: A visually attractive design that keeps users entertained.
 
+---
 
+## 🛠️ Technologies Used
 
+HTML: Structure of the application.
+CSS: Styling and responsiveness.
+JavaScript: Logic and API integration.
+Giphy API: Fetching GIF data.
 
+---
 
-## GIFs Everywhere, for Everyone!
+## 🎨 Design Philosophy
 
-## Thank You!
+"GIFs Everywhere, for Everyone!" – Our mission is to make searching for GIFs fun, easy, and accessible for everyone.
 
+---
 
+## 🤝 Contributing
+We welcome contributions! Here's how you can help:
 
+* Fork the repository.
+* Open a pull request on GitHub.
 
+---
+
+## 💬 Contact
+
+* Developer: [Omkar Kulkarni](https://github.com/omkarkulkarni2704)
+* Project Repository: [Giphy Search](https://github.com/omkarkulkarni2704/GIPHY-Search)
+
+---
+
+Thank you for using Giphy Search! We hope you enjoy endless GIF exploration! 🎥✨
 
 
 
