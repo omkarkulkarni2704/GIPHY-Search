@@ -17,10 +17,10 @@ Welcome to **Giphy Search**, a simple and user-friendly web application that all
 
 ## 🛠️ Technologies Used
 
-HTML: Structure of the application.
-CSS: Styling and responsiveness.
-JavaScript: Logic and API integration.
-Giphy API: Fetching GIF data.
+* **HTML:** Structure of the application.
+* **CSS:** Styling and responsiveness.
+* **JavaScript:** Logic and API integration.
+* **Giphy API:** Fetching GIF data.
 
 ---
 
