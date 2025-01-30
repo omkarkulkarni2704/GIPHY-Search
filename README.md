@@ -4,7 +4,7 @@
 
 Welcome to **Giphy Search**, a simple and user-friendly web application that allows users to search for and display animated GIFs using the [Giphy API](https://developers.giphy.com/). This project is built using **HTML**, **CSS**, and **JavaScript**, and provides a responsive and visually appealing interface for all GIF enthusiasts!      
 
----    
+---       
 
 ## 🌟 Features
 
