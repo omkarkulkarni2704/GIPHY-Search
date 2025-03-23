@@ -14,7 +14,7 @@ Welcome to **Giphy Search**, a simple and user-friendly web application that all
 - 🎉 **Fun and Engaging UI**: A visually attractive design that keeps users entertained.
 
 ---
-
+   
 ## 🛠️ Technologies Used    
 
 * **HTML:** Structure of the application.
