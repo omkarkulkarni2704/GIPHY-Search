@@ -7,7 +7,7 @@ Welcome to **Giphy Search**, a simple and user-friendly web application that all
 ---             
         
 ## 🌟 Features         
-   
+    
 - 🔍 **Search Functionality**: Look up GIFs using your favorite keywords.
 - 💡 **Dynamic Display**: Fetches and displays GIFs directly from the Giphy API.
 - 📱 **Responsive Design**: Optimized for all devices, from desktop to mobile.    
